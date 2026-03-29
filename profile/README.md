@@ -1,6 +1,6 @@
 # Welcome to the IEEE Computer Society Universidade Federal de Juiz de Fora Student Branch Chapter!
 ## Current executive board:
-* Chapter Chair: Rafael Lago - Computer Engineering undergraduate student at Universidade Federal de Juiz de Fora / [LinkedIn](https://linkedin.com/in/rafaellnick)  [GitHub](https://github.com/rafaellnick)
+* Chapter Chair: Rafael Lago - Computer Engineering undergraduate student at Universidade Federal de Juiz de Fora / [LinkedIn](https://linkedin.com/in/rafaellnick) - [GitHub](https://github.com/rafaellnick)
 * Chapter Advisor: Carlos Alexandre Pires - Computer Science Masters student at Universidade Federal de Juiz de Fora
 * Branch Chair: Camila Porto - Electrical Engineering undergratuade student at Universidade Federal de Juiz de Fora
 * Branch Vice-Chair: Pedro Fuzimoto - Electrical Engineering undergraduate student at Universidade Federal de Juiz de Fora
