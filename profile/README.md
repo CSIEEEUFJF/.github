@@ -20,8 +20,8 @@
 
 ##
 <div>
-<img src="./assets/images/ieeecsufjfw.png" width="50%"> 
-<img src="./assets/images/ramoieeeufjfw.png" width="50%"> 
+<img src="./assets/images/logos.png"> 
+
 </div>
 
 
