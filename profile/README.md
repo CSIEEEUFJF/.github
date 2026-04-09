@@ -11,9 +11,23 @@ Through a collaborative and hands-on environment, we enable students to develop 
   Computer Engineering Undergraduate, Universidade Federal de Juiz de Fora  
   [LinkedIn](https://linkedin.com/in/rafaellnick) • [GitHub](https://github.com/rafaellnick)
 
+- **Vice-Chair:** Rafael Campos 
+  Electrical Engineering Undergraduate, Universidade Federal de Juiz de Fora
+  
+- **Secretary:** Arthur Araújo 
+  Electrical Engineering Undergraduate, Universidade Federal de Juiz de Fora  
+  [GitHub](https://github.com/ART3121)
+
+- **Treasurer:** Endhel Andrade  
+  Electrical Engineering Undergraduate, Universidade Federal de Juiz de Fora  
+
+- **Webmaster:** Brendo Almeida 
+  Computer Science Undergraduate, Universidade Federal de Juiz de Fora  
+  [GitHub](https://github.com/BrendoAlmeida)
+  
 - **Advisor:** Carlos Alexandre Pires  
   M.Sc. Student in Computer Science, Universidade Federal de Juiz de Fora  
-
+  [GitHub](https://github.com/carlosalexandre94)
 
 ## Current Projects
 - [Ethernet-Enabled Embedded Access Control Platform on a Renesas Synergy MCU](https://github.com/CSIEEEUFJF/IoT_Ramo_Renesas)  
