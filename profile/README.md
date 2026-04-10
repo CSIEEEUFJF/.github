@@ -36,6 +36,8 @@ Through a collaborative and hands-on environment, we enable students to develop 
 - [Doom Proof-of-Concept Port to a Renesas Synergy MCU Platform](https://github.com/CSIEEEUFJF/DoomRenesas)  
   **Project Lead:** Rafael Lago  
 
+- [HELPIEEE: A Platform to help new students on the Federal University of Juiz de Fora](https://github.com/CSIEEEUFJF/helpIEEE_Next)  
+  **Project Lead:** Arthur Araújo  
 
 ## Activities & Impact
 - Development of real-world embedded systems projects using industry-grade platforms  
