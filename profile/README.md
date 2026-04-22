@@ -39,7 +39,7 @@ Through a collaborative and hands-on environment, we enable students to develop 
 - [HELPIEEE: A Platform to help new students on the Federal University of Juiz de Fora](https://github.com/CSIEEEUFJF/helpIEEE_Next)  
   **Project Lead:** Arthur Araújo
 
-- [Gerador Web de Atas para o Ramo Estudantil IEEE UFJF](https://github.com/CSIEEEUFJF/atasieeeufjf)
+- [Gerador Web de Atas para o Ramo Estudantil IEEE UFJF](https://github.com/CSIEEEUFJF/atasieeeufjf)  
   **Project Lead:** Arthur Araújo
 
 ## Activities & Impact
