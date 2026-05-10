@@ -34,10 +34,6 @@ Through a collaborative and hands-on environment, we enable students to develop 
   **Project Lead:** Rafael Lago  
   **Completed:** April 20, 2026  
 
-- [Doom Proof-of-Concept Port to a Renesas Synergy MCU Platform](https://github.com/CSIEEEUFJF/DoomRenesas)  
-  **Project Lead:** Rafael Lago  
-  **Completed:** April 10, 2026 
-
 - [HELPIEEE: A Platform to help new students on the Federal University of Juiz de Fora](https://github.com/CSIEEEUFJF/helpIEEE_Next)  
   **Project Lead:** Arthur Araújo  
   **In development**  
@@ -53,7 +49,7 @@ Through a collaborative and hands-on environment, we enable students to develop 
 ## Proof-of-Concept Projects
 - [Doom Proof-of-Concept Port to a Renesas Synergy MCU Platform](https://github.com/CSIEEEUFJF/DoomRenesas)  
   **Project Lead:** Rafael Lago  
-  **Completed:** April 10, 2026
+  **Completed:** April 10, 2026  
   
 - [Apollo Guidance Computer port to a ESP32 MCU](https://github.com/CSIEEEUFJF/Apollo11-ESP32)  
   **Project Lead:** Rafael Lago  
