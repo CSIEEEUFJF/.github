@@ -48,8 +48,19 @@ Through a collaborative and hands-on environment, we enable students to develop 
   
 - [Universidade Federal de Juiz de Fora IEEE Student Branch mobile App](https://github.com/CSIEEEUFJF/AppRamo)  
   **Project Lead:** Rafael Lago  
-  **In development**  
+  **In development**
+  
+## Proof-of-Concept Projects
+- [Doom Proof-of-Concept Port to a Renesas Synergy MCU Platform](https://github.com/CSIEEEUFJF/DoomRenesas)  
+  **Project Lead:** Rafael Lago  
+  **Completed:** April 10, 2026
+  
+- [Apollo Guidance Computer port to a ESP32 MCU](https://github.com/CSIEEEUFJF/Apollo11-ESP32)  
+  **Project Lead:** Rafael Lago  
+  **Completed:** May 5, 2026  
 
+
+  
 ## Activities & Impact
 - Development of real-world embedded systems projects using industry-grade platforms  
 - Promotion of hands-on learning through collaborative technical initiatives  
