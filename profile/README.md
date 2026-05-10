@@ -29,18 +29,26 @@ Through a collaborative and hands-on environment, we enable students to develop 
   M.Sc. Student in Computer Science, Universidade Federal de Juiz de Fora  
   [GitHub](https://github.com/carlosalexandre94)
 
-## Current Projects
+## Our Projects
 - [Ethernet-Enabled Embedded Access Control Platform on a Renesas Synergy MCU](https://github.com/CSIEEEUFJF/IoT_Ramo_Renesas)  
   **Project Lead:** Rafael Lago  
+  **Completed:** April 20, 2026  
 
 - [Doom Proof-of-Concept Port to a Renesas Synergy MCU Platform](https://github.com/CSIEEEUFJF/DoomRenesas)  
   **Project Lead:** Rafael Lago  
+  **Completed:** April 10, 2026 
 
 - [HELPIEEE: A Platform to help new students on the Federal University of Juiz de Fora](https://github.com/CSIEEEUFJF/helpIEEE_Next)  
-  **Project Lead:** Arthur Araújo
+  **Project Lead:** Arthur Araújo  
+  **In development**  
 
 - [Gerador Web de Atas para o Ramo Estudantil IEEE UFJF](https://github.com/CSIEEEUFJF/atasieeeufjf)  
-  **Project Lead:** Arthur Araújo
+  **Project Lead:** Arthur Araújo  
+  **In development**  
+  
+- [Universidade Federal de Juiz de Fora IEEE Student Branch mobile App](https://github.com/CSIEEEUFJF/AppRamo)  
+  **Project Lead:** Rafael Lago  
+  **In development**  
 
 ## Activities & Impact
 - Development of real-world embedded systems projects using industry-grade platforms  
