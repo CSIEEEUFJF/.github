@@ -38,8 +38,8 @@ Through a collaborative and hands-on environment, we enable students to develop 
   **Project Lead:** Arthur Araújo  
   **In development**  
 
-- [Gerador Web de Atas para o Ramo Estudantil IEEE UFJF](https://github.com/CSIEEEUFJF/atasieeeufjf)  
-  **Project Lead:** Arthur Araújo  
+- [Internal System for Student Branch Management](https://github.com/CSIEEEUFJF/atasieeeufjf)  
+  **Project Lead:** Arthur Araújo & Rafael Lago 
   **In development**  
   
 - [Universidade Federal de Juiz de Fora IEEE Student Branch mobile App](https://github.com/CSIEEEUFJF/AppRamo)  
