@@ -40,7 +40,7 @@ Through a collaborative and hands-on environment, we enable students to develop 
 
 - [Internal System for Student Branch Management](https://interno.ieeeufjf.com.br/demo)  
   **Project Lead:** Arthur Araújo & Rafael Lago   
-  **In development**  
+  **Completed:** June 28, 2026    
   
 - [Universidade Federal de Juiz de Fora IEEE Student Branch mobile App](https://github.com/CSIEEEUFJF/AppRamo)  
   **Project Lead:** Rafael Lago  
