@@ -38,13 +38,18 @@ Through a collaborative and hands-on environment, we enable students to develop 
   **Project Lead:** Arthur Araújo  
   **In development**  
 
-- [Internal System for Student Branch Management](https://github.com/CSIEEEUFJF/atasieeeufjf)  
-  **Project Lead:** Arthur Araújo & Rafael Lago 
+- [Internal System for Student Branch Management](https://interno.ieeeufjf.com.br/demo)  
+  **Project Lead:** Arthur Araújo & Rafael Lago   
   **In development**  
   
 - [Universidade Federal de Juiz de Fora IEEE Student Branch mobile App](https://github.com/CSIEEEUFJF/AppRamo)  
   **Project Lead:** Rafael Lago  
-  **In development**
+  **Android App: Completed June 28, 2026**  
+  **iOS App: In development**  
+   
+- [Universidade Federal de Juiz de Fora IEEE Student Branch website](https://www.ieeeufjf.com.br/)  
+  **Project Lead:** Rafael Lago   
+  **Completed:**  June 28, 2026  
   
 ## Proof-of-Concept Projects
 - [Doom Proof-of-Concept Port to a Renesas Synergy MCU Platform](https://github.com/CSIEEEUFJF/DoomRenesas)  
